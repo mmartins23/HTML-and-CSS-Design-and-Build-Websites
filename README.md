@@ -1,6 +1,6 @@
 # Intro to Front End (HTML, CSS, JavaScript and jQuery)
 
-Introducing HTML and CSS in a way that makes them accessible to everyone—hobbyists, students, and professionals.
+Introducing front-end in a way that makes them accessible to everyone—hobbyists, students, and professionals.
 
 # Chapters:
 * Chapter 1: Structure 
