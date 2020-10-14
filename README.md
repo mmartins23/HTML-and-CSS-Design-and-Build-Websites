@@ -68,7 +68,7 @@ Introducing front-end in a way that makes them accessible to everyone—hobbyist
 
 
 # Resources
-* HTML and CSS: Design and Build Websites by Jon Duckett: [HTML and CSS: Design and Build Websites PDF Version](http://www.wufai.edu.tw/%E7%B6%B2%E9%A0%81%E6%8A%80%E8%A1%93%E4%B8%AD%E5%BF%83/datasheet/HTML%20and%20CSS%20design%20and%20build%20websites.pdf) 
+* HTML and CSS: Design and Build Websites by Jon Duckett
 
 
 # Resources
