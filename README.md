@@ -69,9 +69,10 @@ Introducing front-end in a way that makes them accessible to everyone—hobbyist
 
 # Resources
 * HTML and CSS: Design and Build Websites by Jon Duckett
-
-
-# Resources
 * JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett. 
 
+
+
+# License
+MIT 
 
