@@ -74,5 +74,5 @@ Introducing front-end in a way that makes them accessible to everyone—hobbyist
 
 
 # License
-MIT 
+MIT License
 
